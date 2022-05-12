@@ -1,20 +1,6 @@
 # [Fleury] - QA Automação
 ## Desafio Web
 
-### Requisitos
-
-- Ruby, Selenium ou Cypress
-- Capybara
-- Cucumber
-- BDD
-- Report
-- Page Objects
-
-### Sugestões:
-
-- Aplicar alguma técnica de Page Objects e Justificar
-- Evitar Hard-Code
-- Inserir comentários/justificativas sobre seus scripts de automação 
 
 ### Teste:
 
